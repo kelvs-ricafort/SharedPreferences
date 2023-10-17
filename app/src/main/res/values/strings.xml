@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Shared Preferences</string>
+
+    <string name="editTextHint">Name</string>
+    <string name="multiLineText">Write your message here</string>
+    <string name="buttonText">0</string>
+    <string name="checkBoxRemember">Remember</string>
 </resources>
